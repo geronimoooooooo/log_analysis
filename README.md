@@ -14,7 +14,7 @@ The task is to use SQL queries on a db ("news") and answer three questions:
 3. On which days did more than 1% of requests lead to errors?
 
 The python program will query the database "news". If you haven't yet created the database,
-please download the "newsdata.sql" from the course and use the following command in the command line "psql -d news -f newsdata.sql"
+please download the "newsdata.sql" from the course and use the following command in the command line <code>psql -d news -f newsdata.sql</code>
 to execute the statements in "newsdata.sql" and create the database "news".
 
 # How to run python script

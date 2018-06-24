@@ -64,7 +64,7 @@ def hello():
     """Short intro to the python program."""
     
     print"This is the log analysis project for the full stack webdeveloper nanodegree."
-    print"This short program queries a database with 3 SQL statements."        
+    print"This short program queries a database with 3 SQL statements.\n"  	
 
 def query_Questions():
     """Queries the database with 3 (questions) SQL queries."""

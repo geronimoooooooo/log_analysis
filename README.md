@@ -16,3 +16,10 @@ The task is to use SQL queries and answer three questions:
 The python program will query the database "news". If you haven't yet created the database,
 please download the "newsdata.sql" and use the following command in the command line "psql -d news -f newsdata.sql"
 to execute the statements in "newsdata.sql" and create the database "news".
+
+
+# How to run script
+Use the command <code>python log_analysis.py</code>
+
+# Output
+You should see something like the following:

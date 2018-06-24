@@ -1,1 +1,19 @@
-d
+This is the log analysis project for the full stack webdeveloper nanodegree by Udacity.
+
+Question 1. What are the most popular three articles of all time?
+1. Candidate is jerk, alleges rival, views: 338647
+2. Bears love berries, alleges bear, views: 253801
+3. Bad things gone, say good people, views: 170098
+
+
+Question 2. Who are the most popular article authors of all time?
+AUTHOR NAME: VIEWS
+Ursula La Multa : 507594
+Rudolf von Treppenwitz : 423457
+Anonymous Contributor : 170098
+Markoff Chaney : 84557
+
+
+Question 3. On which days did more than 1% of requests lead to errors?
+DAYS : CORRECT VIEWS : ERROR VIEWS: ERROR %
+2016-07-17 : 55907 : 1265 : 2.26268619299
